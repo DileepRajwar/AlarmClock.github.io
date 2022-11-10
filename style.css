@@ -1,0 +1,31 @@
+body {
+    background-color:yellowgreen;
+    font-family:cursive;
+    
+}
+
+img, svg {
+    vertical-align: middle;
+    height: 50px;
+    visibility: hidden;
+    color: blueviolet;
+}
+#stopAlarm{
+    visibility: hidden;
+    border: none;
+
+}
+#stopAlarm:hover{
+    background-color: rgb(104, 114, 249);
+    color: green;
+}
+
+#SetAlarm:hover{
+    background-color: whitesmoke;
+    color:burlywood;
+
+h5{
+    
+    color: rgb(228, 222, 222);
+}
+
